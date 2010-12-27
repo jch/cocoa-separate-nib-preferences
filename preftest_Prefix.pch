@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'preftest' target in the 'preftest' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
